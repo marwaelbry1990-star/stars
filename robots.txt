@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dazzling-belekoy-a8866e.netlify.app/sitemap.xml
